@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+simple_inference_example.ipynb
 
 # C extensions
 *.so
